@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Lilya
 <h1 align="center">Hi there 👋, I'm Lilya </h1>
-<h3 align="center">MSc in Big Data & Business Analytsics student. You can find me on <a href="https://www.linkedin.com/in/lilya-tantushyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin7409" height="30" width="40" /></a> </h3>
+<h3 align="center">MSc in Big Data & Business Analytsics student. You can find me on <a href="https://www.linkedin.com/in/lilya-tantushyan/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="sachin7409" height="30" width="40" /></a> </h3>
 <!--
 **lilyatant/lilyatant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
