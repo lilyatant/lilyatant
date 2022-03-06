@@ -2,10 +2,12 @@
 
 <strong>I am a MSc in Big Data & Business Analytsics student.</strong>
 
-- 🌱 I’m currently learning Data Analytics, Machine Learning
+- 🌱 I’m currently learning Data Analytics, Machine Learning and Deep Learning.
+-⚡Fun Fact: I draw comics and make sculptures!
 - 📫 You can reach me on Linkedin or by sending me an email:
     * 👔 [LinkedIn](https://www.linkedin.com/in/lilya-tantushyan/)
     * ✉️ [lilya.tantushyan@edu.escp.eu](mailto:lilya.tantushyan@edu.escp.eu)
+
 
 
 
